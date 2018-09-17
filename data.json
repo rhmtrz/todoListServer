@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Rahmat",
+      "email": "rezaei@adawarp.com",
+      "age": 27
+    },
+    {
+      "id": "2",
+      "name": "Zigen",
+      "email": "zigen@adawarp.com",
+      "age": 24
+    },
+    {
+      "id": "3",
+      "name": "Adaniya",
+      "email": "adaniya@adawarp.com",
+      "age": 24
+    },
+    {
+      "id": "Sayaka",
+      "name": "Rahmat",
+      "email": "rezaei@adawarp.com",
+      "age": 37
+    }
+  ]
+}
